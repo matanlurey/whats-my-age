@@ -1,0 +1,6 @@
+Here's a bunch of junk!!!
+Directory=states
+Whats upppp
+ListType=FunList
+ListType=ArrayList
+Hiiiiii
